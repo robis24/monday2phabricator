@@ -1,4 +1,3 @@
 # monday2phabricator
 
-
-use Node.js
+Node.js script to sync monday.com to phabricator
